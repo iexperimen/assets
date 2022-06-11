@@ -1,10 +1,9 @@
 # Base icon
 
 >+==========================+
->+      Icon base by        +
->+      facebook.com        +
->+      twitter.com         +
->+      instagram.com       +
->+      github.com          +
->+      codepen.io          +
+>+      https://facebook.com        
+>+      https://twitter.com         
+>+      https://instagram.com       
+>+      https://github.com          
+>+      https://codepen.io          
 >+==========================+
