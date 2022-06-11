@@ -1,4 +1,3 @@
-# Assets
 Config files for my GitHub profile #iExperiment.
 
 ### Follow Us
